@@ -108,6 +108,7 @@
     <Compile Include="Models\Gymn.cs" />
     <Compile Include="Models\Localisation.cs" />
     <Compile Include="Models\Or.cs" />
+    <Compile Include="Models\Professeur.cs" />
     <Compile Include="Models\Quartier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
