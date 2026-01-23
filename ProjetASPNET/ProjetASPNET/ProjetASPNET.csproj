@@ -107,6 +107,7 @@
     <Compile Include="Models\Ballon.cs" />
     <Compile Include="Models\Gymn.cs" />
     <Compile Include="Models\Localisation.cs" />
+    <Compile Include="Models\Oiseaux.cs" />
     <Compile Include="Models\Or.cs" />
     <Compile Include="Models\Professeur.cs" />
     <Compile Include="Models\Quartier.cs" />
